@@ -1,0 +1,14 @@
+﻿E:\vs2017\IDE\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(NULL.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  analog.cpp
+e:\githubprograms\mine\algorithm_of_mine\null\analog.cpp(37): warning C4244: “-=”: 从“__int64”转换到“int”，可能丢失数据
+e:\githubprograms\mine\algorithm_of_mine\null\analog.cpp(61): warning C4018: “<”: 有符号/无符号不匹配
+  withBitManipulationDefine.cpp
+e:\githubprograms\mine\algorithm_of_mine\null\withbitmanipulationdefine.cpp(38): warning C4018: “<=”: 有符号/无符号不匹配
+  withListNodeDefine.cpp
+e:\githubprograms\mine\algorithm_of_mine\null\withlistnodedefine.cpp(29): warning C4553: “==”: 未使用表达式结果；是否打算使用“=”?
+  withStringDeclare.h
+  withStringDefine.cpp
+e:\githubprograms\mine\algorithm_of_mine\null\withstringdefine.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+  test.cpp
+  正在生成代码...
+  NULL.vcxproj -> E:\GitHubPrograms\Mine\Algorithm_of_Mine\Debug\Algorithm.exe
